@@ -31,7 +31,7 @@
       },
       "ADV" : {
         "short" : "ADV",
-        "long" : "adverbial",
+        "long" : "ἐπιρρηματικός",
         "style" : {
           "color" : "darkorange"
         }
