@@ -2,36 +2,36 @@
   "relations" : {
     "labels" : {
       "PRED" : {
-        "short" : "PRED",
-        "long" : "predicate",
+        "short" : "κεφ_ῥῆμα",
+        "long" : "κεφάλειον ῥῆμα",
         "style" : {
           "color" : "rgb(223, 38, 38)"
         }
       },
       "SBJ" : {
-        "short" : "SBJ",
-        "long" : "subject",
+        "short" : "διατιθέν",
+        "long" : "διατιθέν",
         "style" : {
           "color" : "rgb(92, 201, 83)"
         }
       },
       "OBJ" : {
-        "short" : "OBJ",
-        "long" : "object",
+        "short" : "διατιθέμενον",
+        "long" : "διατιθέμενον",
         "style" : {
           "color" : "rgb(11, 200, 216)"
         }
       },
       "ATR" : {
-        "short" : "ATR",
-        "long" : "attribute",
+        "short" : "ἐπίθετον",
+        "long" : "ἐπίθετον",
         "style" : {
           "color" : "blue"
         }
       },
       "ADV" : {
-        "short" : "ADV",
-        "long" : "ἐπιρρηματικός",
+        "short" : "ἐπίρρημα",
+        "long" : "ἐπίρρημα",
         "style" : {
           "color" : "darkorange"
         }
