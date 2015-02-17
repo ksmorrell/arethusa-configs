@@ -17,49 +17,49 @@
       "short" : "pos",
       "values" : {
         "noun" : {
-          "long" : "noun",
-          "short" : "noun",
-          "postag" : "n",
+          "long" : "ὄνομα",
+          "short" : "ονο",
+          "postag" : "ο",
           "style" : {
             "color" : "rgb(43, 114, 124)"
           }
         },
         "adj" : {
-          "long" : "adjective",
-          "short" : "adj",
-          "postag" : "a",
+          "long" : "ἐπίθετον",
+          "short" : "εθ",
+          "postag" : "εθ",
           "style" : {
             "color" : "blue"
           }
         },
         "adv" : {
-          "long" : "adverb",
-          "short" : "adv",
-          "postag" : "d",
+          "long" : "ἐπίρρημα",
+          "short" : "ερ",
+          "postag" : "ερ",
           "style" : {
             "color" : "darkorange"
           }
         },
         "conj" : {
-          "long" : "conjunction",
-          "short" : "conj",
-          "postag" : "c",
+          "long" : "σύνδεσμος",
+          "short" : "σδ",
+          "postag" : "σδ",
           "style" : {
             "color" : "deeppink"
           }
         },
         "prep" : {
-          "long" : "preposition",
-          "short" : "prep",
-          "postag" : "r",
+          "long" : "πρόθεσις",
+          "short" : "πθ",
+          "postag" : "πθ",
           "style" : {
             "color" : "green"
           }
         },
         "pron" : {
-          "long" : "pronoun",
-          "short" : "pron",
-          "postag" : "p",
+          "long" : "ἀντωνομία",
+          "short" : "αντ",
+          "postag" : "α",
           "style" : {
             "color" : "purple"
           }
@@ -73,30 +73,30 @@
           }
         },
         "verb" : {
-          "long" : "verb",
-          "short" : "verb",
-          "postag" : "v",
+          "long" : "ῥῆμα",
+          "short" : "ρη",
+          "postag" : "ρ",
           "style" : {
             "color" : "red"
           }
         },
         "nrl" : {
-          "long" : "numeral",
-          "short" : "nrl",
-          "postag" : "m",
+          "long" : "ἀριθμός",
+          "short" : "αρ",
+          "postag" : "αρ",
           "style" : {
             "color" : "lightgreen"
           }
         },
         "punct" : {
-          "long" : "punctuation",
-          "short" : "punct",
-          "postag" : "u"
+          "long" : "στιψμή",
+          "short" : "στι",
+          "postag" : "σ"
         },
         "art" : {
-          "long" : "article",
-          "short" : "art",
-          "postag" : "l",
+          "long" : "ἄρθρον",
+          "short" : "αρθ",
+          "postag" : "αρθ",
           "style" : {
             "color" : "lightblue"
           }
@@ -110,9 +110,9 @@
           }
         },
         "irreg" : {
-          "long" : "irregular",
-          "short" : "irreg",
-          "postag" : "x",
+          "long" : "ἀνώμαλον",
+          "short" : "ανω",
+          "postag" : "ανω",
           "style" : {
             "color" : "gray"
           }
@@ -120,23 +120,23 @@
       }
     },
     "pers" : {
-      "long" : "Person",
-      "short" : "pers",
+      "long" : "πρόσωπον",
+      "short" : "προς",
       "values" : {
         "1st" : {
-          "long" : "first person",
-          "short" : "1st",
-          "postag" : "1"
+          "long" : "πρῶτον πρόσωπον",
+          "short" : "πρω",
+          "postag" : "πρω"
         },
         "2nd" : {
-          "long" : "second person",
-          "short" : "2nd",
-          "postag" : "2"
+          "long" : "δεύτερον πρόσωπον",
+          "short" : "δευτ",
+          "postag" : "δευ"
         },
         "3rd" : {
-          "long" : "third person",
-          "short" : "3rd",
-          "postag" : "3"
+          "long" : "τρίτον πρόσωπον",
+          "short" : "τρι",
+          "postag" : "τρι"
         }
       },
       "rules" : [
