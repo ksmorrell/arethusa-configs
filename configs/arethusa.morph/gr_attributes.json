@@ -102,9 +102,9 @@
           }
         },
         "prtl" : {
-          "long" : "particle",
-          "short" : "prtl",
-          "postag" : "g",
+          "long" : "μερίδιον",
+          "short" : "μερ",
+          "postag" : "μ",
           "style" : {
             "color" : "lightcoral"
           }
@@ -125,18 +125,18 @@
       "values" : {
         "1st" : {
           "long" : "πρῶτον πρόσωπον",
-          "short" : "πρω",
-          "postag" : "πρω"
+          "short" : "πρωπ",
+          "postag" : "πρωπ"
         },
         "2nd" : {
           "long" : "δεύτερον πρόσωπον",
-          "short" : "δευτ",
-          "postag" : "δευ"
+          "short" : "δευτπ",
+          "postag" : "δευπ"
         },
         "3rd" : {
           "long" : "τρίτον πρόσωπον",
-          "short" : "τρι",
-          "postag" : "τρι"
+          "short" : "τριπ",
+          "postag" : "τριπ"
         }
       },
       "rules" : [
@@ -152,8 +152,8 @@
       ]
     },
     "num" : {
-      "long" : "Number",
-      "short" : "num",
+      "long" : "ἀριθμός",
+      "short" : "αρ",
       "rules" : [
         {
           "if" : {
@@ -169,25 +169,25 @@
       ],
       "values" : {
         "sg" : {
-          "long" : "singular",
-          "short" : "sg",
-          "postag" : "s"
+          "long" : "ἑνικόν",
+          "short" : "εν",
+          "postag" : "εν"
         },
         "pl" : {
-          "long" : "plural",
-          "short" : "pl",
-          "postag" : "p"
+          "long" : "πληθυντικόν",
+          "short" : "πλη",
+          "postag" : "πλη"
         },
         "dl" : {
-          "long" : "dual",
-          "short" : "dl",
-          "postag" : "d"
+          "long" : "δυικόν",
+          "short" : "δυι",
+          "postag" : "δυι"
         }
       }
     },
     "tense" : {
-      "long" : "Tense",
-      "short" : "tense",
+      "long" : "χρόνος",
+      "short" : "χρον",
       "rules" : [
         {
           "if" : {
@@ -197,39 +197,39 @@
       ],
       "values" : {
         "pr" : {
-          "long" : "present",
-          "short" : "pr",
-          "postag" : "p"
+          "long" : "ἐνεστώς",
+          "short" : "ενε",
+          "postag" : "ενε"
         },
         "imp" : {
-          "long" : "imperfect",
-          "short" : "imp",
-          "postag" : "i"
+          "long" : "παρατατικός",
+          "short" : "παρατ",
+          "postag" : "παρατ"
         },
         "perf" : {
-          "long" : "perfect",
-          "short" : "perf",
-          "postag" : "r"
+          "long" : "παρακείμενος",
+          "short" : "παρακ",
+          "postag" : "παρακ"
         },
         "pqpf" : {
-          "long" : "plusquamperfect",
-          "short" : "pqpf",
-          "postag" : "l"
+          "long" : "ὑπερσυντελικός",
+          "short" : "υπερσ",
+          "postag" : "υπερσ"
         },
         "fex" : {
-          "long" : "future perfect",
-          "short" : "fex",
-          "postag" : "t"
+          "long" : "τετελεσμένος μέλλων",
+          "short" : "τετμελ",
+          "postag" : "τετμελ"
         },
         "fut" : {
-          "long" : "future",
-          "short" : "fut",
-          "postag" : "f"
+          "long" : "μέλλων",
+          "short" : "μελ",
+          "postag" : "μελ"
         },
         "aor" : {
-          "long" : "aorist",
-          "short" : "aor",
-          "postag" : "a"
+          "long" : "ἀορίστος",
+          "short" : "αορ",
+          "postag" : "αορ"
         }
       }
     },
